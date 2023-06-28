@@ -10,7 +10,7 @@ Download this template from [Github](https://github.com/furioustheme/devrick/arc
 <!-- installation -->
 ### Basic Usages
 
-After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+After downloading the template, you can simply edit the HTML and CSS files from the `docs` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
 ### Advanced Usage
 
@@ -53,7 +53,7 @@ After finishing all the customization, you can create a production build by runn
 npm run build
 ```
 
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
+Now you get a `docs` folder that has all the changes you have made. you can use this folder as your main theme.
 
 <!-- licence -->
 ## License

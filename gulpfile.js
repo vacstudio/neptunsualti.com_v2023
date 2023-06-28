@@ -24,7 +24,7 @@ var path = {
     fonts: "source/fonts/**/*.+(eot|ttf|woff|woff2|otf)",
   },
   build: {
-    dir: "theme/",
+    dir: "docs/",
   },
 };
 
@@ -141,7 +141,7 @@ gulp.task("others:build", function () {
 
 // Clean Build Folder
 gulp.task("clean", function (cb) {
-  rimraf("./theme", cb);
+  rimraf("./docs", cb);
 });
 
 // Watch Task
